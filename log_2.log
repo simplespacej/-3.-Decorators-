@@ -1,0 +1,4 @@
+2024-02-08 13:56:09 - Called function: hello_world with args: () returns: Hello World
+2024-02-08 13:56:09 - Called function: summator with args: (2, 2) returns: 4
+2024-02-08 13:56:09 - Called function: div with args: (6, 2) returns: 3.0
+2024-02-08 13:56:09 - Called function: summator with args: (4.3, b=2.2) returns: 6.5
